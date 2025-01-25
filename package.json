@@ -1,0 +1,21 @@
+{
+  "name": "url-scraper",
+  "version": "1.0.0",
+  "description": "Something to help build a training dataset",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imcnaugh/CareerPageDataScraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imcnaugh/CareerPageDataScraper/issues"
+  },
+  "homepage": "https://github.com/imcnaugh/CareerPageDataScraper#readme",
+  "dependencies": {
+    "puppeteer": "^23.4.0"
+  }
+}
